@@ -142,7 +142,7 @@ pontosTuriscosCentroSP.forEach(ponto => {
 document.write("</div><br>");
 
 document.write("<div>");
-document.write("<label>Pontos Turísticos e Downtown de Las Vega são:</label>");
+document.write("<label>Pontos Turísticos e Downtown de Las Vegas são:</label>");
 pontosTuriscosDowntownLV.forEach(ponto => {
   document.write("<div>" + ponto + "</div>")
 });
